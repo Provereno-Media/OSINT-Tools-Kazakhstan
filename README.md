@@ -1,9 +1,7 @@
 # OSINT-Tools-Kazakhstan
-<img src="https://www.akorda.kz/assets/media/flag_mediumThumb.jpg" alt="Flag of Kazakhstan"/>
-I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Would you like me to add more? Make a pull request.
-Unless further clarified, the site or project has versions in Kazakh and Russian, some resources have English versions as well. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Flag of Kazakhstan"/>
 
-Some functions are available only for residents of Kazakhstan. So for deeper OSINT, you have to find a friend in Kazakhstan (like me). Have you ever been there? No? Then you should
+Unless further clarified, the site or project has versions in Kazakh and Russian; some resources have English versions as well. Some functions are available only for residents of Kazakhstan. So for deeper OSINT, you have to find a friend in Kazakhstan (like me). Have you ever been there? No? Then you should
 visit my Homeland — [Almaty](https://www.tripadvisor.ru/Attractions-g298251-Activities-Almaty.html)!
 
 ![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Kazakhstan?label=Last%20updated)
